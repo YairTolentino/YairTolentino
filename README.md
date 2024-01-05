@@ -4,7 +4,7 @@ Hi 👋 My name is Yair Tolentino
 Information Technology Engineer | Software Developer
 ----------------------------------------------------
 
-With over 7 years in the field, including 3 years of professional experience and 2 years of technical education. My journey includes a solid foundation in React JS, where I've successfully delivered dynamic and responsive web applications. I possess robust knowledge in Microsoft technologies, enhancing my capabilities for end-to-end project development. I am passionate about team collaboration, continuous improvement, and the implementation of best development practices. I am excited to contribute to innovative projects and continue learning in the ever-evolving world of technology!
+With over 2 years of experience. My journey includes a solid foundation in React JS, where I've successfully delivered dynamic and responsive web applications. I possess robust knowledge in Microsoft technologies, enhancing my capabilities for end-to-end project development. I am passionate about team collaboration, continuous improvement, and the implementation of best development practices. I am excited to contribute to innovative projects and continue learning in the ever-evolving world of technology!
 
 * 🌍  I'm based in Mexicali, B.C
 * ✉️  You can contact me at [yairtolentinodev@gmail.com](mailto:yairtolentinodev@gmail.com)
